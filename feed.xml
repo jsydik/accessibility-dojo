@@ -3,7 +3,7 @@
     <title>A11y Dojo</title>
     <link href="https://jsydik.github.io/accessibility-dojo/feed.xml" rel="self" />
     <link href="https://jsydik.github.io/accessibility-dojo" />
-    <updated>2020-03-18T04:32:58-05:00</updated>
+    <updated>2020-03-18T04:41:20-05:00</updated>
     <author>
         <name>Jeremy Sydik</name>
     </author>
@@ -17,17 +17,17 @@
         <link href="https://jsydik.github.io/accessibility-dojo/knowing_where_ones_towel_is.html"/>
         <id>https://jsydik.github.io/accessibility-dojo/knowing_where_ones_towel_is.html</id>
 
-        <updated>2020-03-18T18:00:00-05:00</updated>
+        <updated>2020-03-18T04:40:56-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jsydik.github.io/accessibility-dojo/media/posts/4/AccessMazeBW.jpg" alt="" />
+                        <img src="https://jsydik.github.io/accessibility-dojo/media/posts/4/EmptyClassroom.jpg" alt="Chairs and desks in an empty classroom" />
                     <p>So you’ve recently “decided” to move your entire semester online under duress in the middle of a global crisis to the tick of a stopwatch—you probably have a few questions.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jsydik.github.io/accessibility-dojo/media/posts/4/AccessMazeBW.jpg" alt="" />
+                    <img src="https://jsydik.github.io/accessibility-dojo/media/posts/4/EmptyClassroom.jpg" alt="Chairs and desks in an empty classroom" />
                 <p>So you’ve recently “decided” to move your entire semester online under duress in the middle of a global crisis to the tick of a stopwatch—you probably have a few questions.</p>
 
 <p>This wasn’t quite how (or when) I expected to be getting back to these articles, but that feeling seems to be going around lately.  This one is going to be about working toward being inclusive and accessible in pieces and parts when everything is stacked against it - the “meatball surgery” of accessible content design so to speak.   This will be about accessibility from the perspective of <em>triage</em> rather than Proper Design as it Should Be, making things as accessible as they need to be today and coming back for the rest as we go.  That’s not to say we won’t defend our ideals - if our approach to equity becomes meaningless in a crisis, it never really meant much to begin with.</p>
@@ -72,17 +72,17 @@
         <link href="https://jsydik.github.io/accessibility-dojo/principles-before-guidelines.html"/>
         <id>https://jsydik.github.io/accessibility-dojo/principles-before-guidelines.html</id>
 
-        <updated>2020-03-18T04:19:41-05:00</updated>
+        <updated>2020-03-18T04:40:33-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jsydik.github.io/accessibility-dojo/media/posts/3/EmptyClassroom.jpg" alt="Desks and Chairs in an Empty Classroom" />
+                        <img src="https://jsydik.github.io/accessibility-dojo/media/posts/3/JusticeNYC.jpg" alt="Sculpture of Jusice from the New York City Court" />
                     <p>I prefer to take a <em>principles before guidelines</em> approach to accessibility. Staying focused on compliance issues is a common approach to accessibility, so it may seem surprising that I’m going to push the guidelines out of the way for now.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jsydik.github.io/accessibility-dojo/media/posts/3/EmptyClassroom.jpg" alt="Desks and Chairs in an Empty Classroom" />
+                    <img src="https://jsydik.github.io/accessibility-dojo/media/posts/3/JusticeNYC.jpg" alt="Sculpture of Jusice from the New York City Court" />
                 <p>I prefer to take a <em>principles before guidelines</em> approach to accessibility. Staying focused on compliance issues is a common approach to accessibility, so it may seem surprising that I’m going to push the guidelines out of the way for now.</p>
 
 <p>If this concerns you, don’t worry too much—I’ll eventually get to the topic of formal accessibility testing where standards and guidelines rule, and you’ll likely look longingly at these halcyon days.</p>
@@ -120,17 +120,17 @@
         <link href="https://jsydik.github.io/accessibility-dojo/once_upon_a_time.html"/>
         <id>https://jsydik.github.io/accessibility-dojo/once_upon_a_time.html</id>
 
-        <updated>2020-03-18T04:24:54-05:00</updated>
+        <updated>2020-03-18T04:40:08-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jsydik.github.io/accessibility-dojo/media/posts/2/JusticeNYC.jpg" alt="Sculpture of Justice at New York City Courthouse" />
+                        <img src="https://jsydik.github.io/accessibility-dojo/media/posts/2/Bulldozer-Vetsikas-BW.jpg" alt="An old bulldozer" />
                     <p>Over a decade ago, I wrote a book about web accessibility to gather together the thoughts and experiences of ten-ish years working in the field.  All in all it was a great experience—I had the opportunity to work with the fine people at <a href="https://pragprog.com" target="_blank" rel="noopener noreferrer">Pragmatic Bookshelf</a>, was able to speak about digital accessibility to broad audiences, met many other professionals exploring inclusive design, and engaged with readers who enjoyed the book and became advocates of accessibility themselves.  So what happened next?</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jsydik.github.io/accessibility-dojo/media/posts/2/JusticeNYC.jpg" alt="Sculpture of Justice at New York City Courthouse" />
+                    <img src="https://jsydik.github.io/accessibility-dojo/media/posts/2/Bulldozer-Vetsikas-BW.jpg" alt="An old bulldozer" />
                 <p>Over a decade ago, I wrote a book about web accessibility to gather together the thoughts and experiences of ten-ish years working in the field.  All in all it was a great experience—I had the opportunity to work with the fine people at <a href="https://pragprog.com" target="_blank" rel="noopener noreferrer">Pragmatic Bookshelf</a>, was able to speak about digital accessibility to broad audiences, met many other professionals exploring inclusive design, and engaged with readers who enjoyed the book and became advocates of accessibility themselves.  So what happened next?</p>
 
 <p>My path to inclusive design started in the summer of 199x.  I wrote in <a href="https://www.goodreads.com/book/show/2153345.Design_Accessible_Web_Sites" target="_blank" rel="noopener noreferrer">Design Accessible Web Sites</a>:</p>
@@ -157,16 +157,16 @@
         <link href="https://jsydik.github.io/accessibility-dojo/its-not-polite-to-flash-your-audience.html"/>
         <id>https://jsydik.github.io/accessibility-dojo/its-not-polite-to-flash-your-audience.html</id>
 
-        <updated>2020-03-17T22:35:29-05:00</updated>
+        <updated>2020-03-18T04:39:50-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://jsydik.github.io/accessibility-dojo/media/posts/1/Bulldozer-Vetsikas-BW.jpg" alt="An old bulldozer, photographed in black and white" />
+                        <img src="https://jsydik.github.io/accessibility-dojo/media/posts/1/AccessMazeBW.jpg" alt="Drawing of a bulldozer parked next to a hedge maze where a path has been plowed to a key shaped hedge in the center" />
                     Life is interesting sometimes. Not long ago, I was writing a tip in Design Accessible Web Sites about flicker and photosensitive epilepsy. I kind of went back and forth about whether this was a common enough issue to worry about. In the end, I decided that&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://jsydik.github.io/accessibility-dojo/media/posts/1/Bulldozer-Vetsikas-BW.jpg" alt="An old bulldozer, photographed in black and white" />
+                    <img src="https://jsydik.github.io/accessibility-dojo/media/posts/1/AccessMazeBW.jpg" alt="Drawing of a bulldozer parked next to a hedge maze where a path has been plowed to a key shaped hedge in the center" />
                 Life is interesting sometimes. Not long ago, I was writing a tip in Design Accessible Web Sites about flicker and photosensitive epilepsy. I kind of went back and forth about whether this was a common enough issue to worry about. In the end, I decided that it was too important to not discuss in depth.<br><br>When video flickers at the right speed, some people have seizures. The degree of the seizure varies, but to be sure, this isn’t a pleasant way to relax watching television or a web video. If you test your video for flicker problems using <a href="http://www.hardingfpa.tv" target="_blank" rel="noopener noreferrer">Harding FPA</a> or TRACE Center’s <a href="https://trace.umd.edu/peat" target="_blank" rel="noopener noreferrer">Photosensitive Epilepsy Analysis Tool (PEAT)</a>, you can avoid inappropriate levels of flicker. If you don’t test it, you run the risk of seriously harming some of your users.<br><br>This was exactly what happened this week when a video introduction was rolled out for the 2012 London Olympics [<a href="http://news.bbc.co.uk/2/hi/uk_news/england/london/6724245.stm" target="_blank" rel="noopener noreferrer">BBC News: Epilepsy fears over 2012 footage</a>]. A segment in this video featured a multicolor flicker that was not tested for problems and viewers suffered from seizures. Fortunately, it appears that fewer than a dozen people reported being affected by this video (An infamous episode of Pokemon a few years back had over 500 reported seizures). I’m not as concerned about the reported numbers as by the potential damage though—in the end, 23000 people in the UK were put at risk of seizures caused by this video.<br><br>Most of us don’t worry about things like the flicker rate of our content very often. It seems like a minor factor that effects only a few people. It’s never just a few people - a small percentage of the total population is still in the thousands. It’s also not a great way to do business. London mayor Ken Livingstone had these comments:<br><br>* "If you employ someone to design a logo for you and they haven’t done a basic health check you have to ask what they do for their money" [<a href="http://www.nytimes.com/2007/06/07/world/europe/07olympics.html" target="_blank" rel="noopener noreferrer">New York Times: 2012 Olympic Logo: Sparks Precede the Flame</a>].<br>* "Who would go into a firm like that again and ask them to do that work. This is a pretty basic thing" [<a href="http://news.bbc.co.uk/2/hi/uk_news/england/london/6727029.stm" target="_blank" rel="noopener noreferrer">BBC News: Mayor wades into 2012 footage row</a>].<br><br>These are important things to think about. As web designers, we make our livings by serving an audience. If we allow harm to come to that audience, we allow harm to come to ourselves.
             ]]>
         </content>
