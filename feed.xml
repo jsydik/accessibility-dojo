@@ -3,7 +3,7 @@
     <title>A11y Dojo</title>
     <link href="https://jsydik.github.io/accessibility-dojo/feed.xml" rel="self" />
     <link href="https://jsydik.github.io/accessibility-dojo" />
-    <updated>2020-03-17T22:03:45-05:00</updated>
+    <updated>2020-03-17T22:31:40-05:00</updated>
     <author>
         <name>Jeremy Sydik</name>
     </author>
@@ -88,6 +88,28 @@
 <p>I punted around the idea of revising a new edition, but held off.  I was finishing up my dissertation, raising my kids is always my chief priority, and then professional changes made life excessively busy for a couple of years.  More importantly, I noticed a pattern—every couple of years, a new accessibility author would put out a book, it would make its run, and then disappear into the twilight.  While I'm still very proud of the product, I'm not entirely sure that books are the best way to approach this kind of content.  Even at the time, I wrote the book a series of articles designed to be read out of order as needed in the process of professional practice.   </p>
 <p>So the answer is this - a return to blog style articles for the first time in a long while.  My plan is to revisit old content from Design Accessible Web Sites, splitting, updating, and remixing as needed as well as to periodically write up new things as they become timely.  At this point there is no particular schedule or timeline, so bear with me.</p>
 <p>As an aside, Design Accessible Web Sites began "It was a dark and stormy night..." (really).  My editor was <em>not at all</em> happy with this choice, but it got enough of a positive result from readers that I'll kick off this set of articles with "Once upon a time" anyway.    </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>It&#x27;s Not Polite to Flash Your Audience</title>
+        <author>
+            <name>Jeremy Sydik</name>
+        </author>
+        <link href="https://jsydik.github.io/accessibility-dojo/its-not-polite-to-flash-your-audience.html"/>
+        <id>https://jsydik.github.io/accessibility-dojo/its-not-polite-to-flash-your-audience.html</id>
+
+        <updated>2020-03-17T22:31:17-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jsydik.github.io/accessibility-dojo/media/posts/4/AccessMazeBW.jpg" alt="" />
+                    Life is interesting sometimes. Not long ago, I was writing a tip in Design Accessible Web Sites about flicker and photosensitive epilepsy. I kind of went back and forth about whether this was a common enough issue to worry about. In the end, I decided that&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jsydik.github.io/accessibility-dojo/media/posts/4/AccessMazeBW.jpg" alt="" />
+                Life is interesting sometimes. Not long ago, I was writing a tip in Design Accessible Web Sites about flicker and photosensitive epilepsy. I kind of went back and forth about whether this was a common enough issue to worry about. In the end, I decided that it was too important to not discuss in depth.<br><br>When video flickers at the right speed, some people have seizures. The degree of the seizure varies, but to be sure, this isn’t a pleasant way to relax watching television or a web video. If you test your video for flicker problems using <a href="http://www.hardingfpa.tv" target="_blank" rel="noopener noreferrer">Harding FPA</a> or TRACE Center’s <a href="https://trace.umd.edu/peat" target="_blank" rel="noopener noreferrer">Photosensitive Epilepsy Analysis Tool (PEAT)</a>, you can avoid inappropriate levels of flicker. If you don’t test it, you run the risk of seriously harming some of your users.<br><br>This was exactly what happened this week when a video introduction was rolled out for the 2012 London Olympics [<a href="http://news.bbc.co.uk/2/hi/uk_news/england/london/6724245.stm" target="_blank" rel="noopener noreferrer">BBC News: Epilepsy fears over 2012 footage</a>]. A segment in this video featured a multicolor flicker that was not tested for problems and viewers suffered from seizures. Fortunately, it appears that fewer than a dozen people reported being affected by this video (An infamous episode of Pokemon a few years back had over 500 reported seizures). I’m not as concerned about the reported numbers as by the potential damage though—in the end, 23000 people in the UK were put at risk of seizures caused by this video.<br><br>Most of us don’t worry about things like the flicker rate of our content very often. It seems like a minor factor that effects only a few people. It’s never just a few people - a small percentage of the total population is still in the thousands. It’s also not a great way to do business. London mayor Ken Livingstone had these comments:<br><br>* "If you employ someone to design a logo for you and they haven’t done a basic health check you have to ask what they do for their money" [<a href="http://www.nytimes.com/2007/06/07/world/europe/07olympics.html" target="_blank" rel="noopener noreferrer">New York Times: 2012 Olympic Logo: Sparks Precede the Flame</a>].<br>* "Who would go into a firm like that again and ask them to do that work. This is a pretty basic thing" [<a href="http://news.bbc.co.uk/2/hi/uk_news/england/london/6727029.stm" target="_blank" rel="noopener noreferrer">BBC News: Mayor wades into 2012 footage row</a>].<br><br>These are important things to think about. As web designers, we make our livings by serving an audience. If we allow harm to come to that audience, we allow harm to come to ourselves.
             ]]>
         </content>
     </entry>
