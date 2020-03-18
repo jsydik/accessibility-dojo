@@ -1,2 +1,0 @@
-# accessibility-dojo
-Accessibility Dojo

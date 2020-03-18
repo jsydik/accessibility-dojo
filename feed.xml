@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>A11y Dojo</title>
+    <link href="https://jsydik.github.io/accessibility-dojo/feed.xml" rel="self" />
+    <link href="https://jsydik.github.io/accessibility-dojo" />
+    <updated>2020-03-17T21:59:49-05:00</updated>
+    <author>
+        <name>Jeremy Sydik</name>
+    </author>
+    <id>https://jsydik.github.io/accessibility-dojo</id>
+
+    <entry>
+        <title>Principles Before Guidelines</title>
+        <author>
+            <name>Jeremy Sydik</name>
+        </author>
+        <link href="https://jsydik.github.io/accessibility-dojo/principles-before-guidelines.html"/>
+        <id>https://jsydik.github.io/accessibility-dojo/principles-before-guidelines.html</id>
+
+        <updated>2020-03-17T14:20:07-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jsydik.github.io/accessibility-dojo/media/posts/2/JusticeNYC.jpg" alt="Sculpture of Justice at New York City Courthouse" />
+                    I prefer to take a principles before guidelines approach to accessibility. Staying focused on compliance issues is a common approach to accessibility, so it may seem surprising that I’m going to push the guidelines out of the way for now. If this concerns you, don’t&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jsydik.github.io/accessibility-dojo/media/posts/2/JusticeNYC.jpg" alt="Sculpture of Justice at New York City Courthouse" />
+                <p class="p1">I prefer to take a <em>principles before guidelines</em> approach to accessibility. Staying focused on compliance issues is a common approach to accessibility, so it may seem surprising that I’m going to push the guidelines out of the way for now. If this concerns you, don’t worry too much—I’ll eventually get to the topic of formal accessibility testing where standards and guidelines rule, and you’ll likely look longingly at these halcyon days.</p>
+<p class="p2">When we get there, you’ll find that guidelines are important for sorting out details and testing for compliance but they’re not written as instructional documents. Our goal for the moment is helping as many people as possible get the information they want—not learning to be “rules lawyers.” When we add video to our sites, we don’t want to be thinking:</p>
+<blockquote>
+<p class="p2">"Section 508, §1194.24(c) says: All training and informational video and multimedia productions which support the agency’s mission, regardless of format, that contain speech or other audio information necessary for the comprehension of the content, shall be open or closed captioned"</p>
+</blockquote>
+<p class="p2">This places our priority on compliance instead of on our users. We really want think about it like this:</p>
+<blockquote>
+<p class="p2">"Ok, we’re using video. Which of our users does this affect? Well, for users who can’t see the video, we should add audio descriptions and we’ll add captions for people with hearing disabilities. Hmmm—Some of our users might not have the video player we’re asking for. We should also add a transcript of the video. Is there anyone else we might be missing?"</p>
+</blockquote>
+<p class="p2">This approach is user focused and, at the end of the day, that’s what accessibility is all about. It’ll also give you a framework for understanding the meaning of the guidelines when you get there.We’re going to follow ten rules when we design accessible sites:</p>
+<h2 id="mcetoc_1e3ku9rr10" class="p1">Ten Principles for Web Accessibility</h2>
+<ol class="ol1">
+<li class="li2">Avoid making assumptions about the the physical, mental, and sensory abilities of your users whenever possible.</li>
+<li class="li2">Your users’ technologies are capable of sending and receiving text. That’s about all you’ll ever be able to assume.</li>
+<li class="li2">Users’ time and technology belong to them, not to us. You should never take control of either without a really good reason.</li>
+<li class="li2">Provide good text alternatives for any non-text content.</li>
+<li class="li2">Use widely available technologies to reach your audience.</li>
+<li class="li2">Use clear language to communicate your message.</li>
+<li class="li2">Make your sites usable, searchable, and navigable.</li>
+<li class="li2">Design your content for semantic meaning and maintain separation between content and presentation.</li>
+<li class="li2">Progressively enhance your basic content by adding extra features. Allow it to fall back gracefully for users who can’t or don’t wish to use them.</li>
+<li class="li2">As you encounter new accessibility challenges, apply these same principles as appropriate.</li>
+</ol>
+<p class="p2">These principles apply to just about everything you’ll need to do to design accessibly. Of course, you’ll need to understand <em>how</em> to apply them. That’s good, because we’re just getting started.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Once Upon a Time</title>
+        <author>
+            <name>Jeremy Sydik</name>
+        </author>
+        <link href="https://jsydik.github.io/accessibility-dojo/title-goes-here.html"/>
+        <id>https://jsydik.github.io/accessibility-dojo/title-goes-here.html</id>
+
+        <updated>2020-03-17T14:11:53-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jsydik.github.io/accessibility-dojo/media/posts/1/Bulldozer-Vetsikas-BW.jpg" alt="An old bulldozer, photographed in black and white" />
+                    <p>Over a decade ago, I wrote a book about web accessibility to gather together the thoughts and experiences of ten-ish years working in the field.  All in all it was a great experience—I had the opportunity to work with the fine people at <a href="https://pragprog.com" target="_blank" rel="noopener noreferrer">Pragmatic Bookshelf</a>, was able to speak about digital accessibility to broad audiences, met many other professionals exploring inclusive design, and engaged with readers who enjoyed the book and became advocates of accessibility themselves.  So what happened next?</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://jsydik.github.io/accessibility-dojo/media/posts/1/Bulldozer-Vetsikas-BW.jpg" alt="An old bulldozer, photographed in black and white" />
+                <p>Over a decade ago, I wrote a book about web accessibility to gather together the thoughts and experiences of ten-ish years working in the field.  All in all it was a great experience—I had the opportunity to work with the fine people at <a href="https://pragprog.com" target="_blank" rel="noopener noreferrer">Pragmatic Bookshelf</a>, was able to speak about digital accessibility to broad audiences, met many other professionals exploring inclusive design, and engaged with readers who enjoyed the book and became advocates of accessibility themselves.  So what happened next?</p>
+
+<p>My path to inclusive design started in the summer of 199x.  I wrote in <a href="https://www.goodreads.com/book/show/2153345.Design_Accessible_Web_Sites" target="_blank" rel="noopener noreferrer">Design Accessible Web Sites</a>:</p>
+<blockquote>
+<p>Back then, I was working as a student web developer and sysadmin and we needed a system for a blind user to work on a paper.  Simple enough—we had some new systems.  Just grab one, install it, add the specialized software and we're done.  I was fairly happy about the job—it was my first time through this kind of configuration and I finished with plenty of time so I added on nicer (I thought) speakers and keyboard.</p>
+<p>Our user came in and started to use the system—or at least tried to use the system.  Everything started to fall apart. The keyboard was one of the newer (at the time) ergonomic keyboards, which the user had never worked with.  The speakers were an even bigger problem.  They came out of the box set to a low volume and I hadn’t thought to set them high so they could be controlled from software.  The user began to panic when the interface to the system was completely disrupted.  Two decisions that wouldn’t have usually been a problem turned the afternoon into a disaster.</p>
+<p>Of course, the real problem was human, not technological.  My mistake was in my assumption about how people use computers which, of course, was how I used a computer.  I knew that blind users needed to use special software on their computers, but I didn’t consider the real difference in user experience.  Later that evening, I got curious about my web sites—seeing how much difference something as simple as a different keyboard could make, how would my sites behave for users with screen readers instead of monitors and keyboards but not mice?</p>
+<p>It wasn’t pretty.  I knew that I needed to design my sites differently, but what exactly did I need to do?  It turns out that accessibility isn’t really that much about what you do—it’s a matter of how you do it.  What I really needed was information on what being accessible means and how to think from the perspectives of many kinds of users.</p>
+</blockquote>
+<p>So that's what happened. I went to my HCI professor and started asking questions. At the time, HCI (now usually considered UX) wasn't a prominent topic in many computer science programs, so she advised that I go speak with some cognitive psychologists. As luck would have it, the ADA officer who ran the lab I was working in, Dr. Christy Horn, was a leading advocate for the rights of persons with disabilities as well as professor of educational psychology. She was also a persistent recruiter of graduate students—which resulted (eventually) in my own pursuit of a doctorate.</p>
+<p>John Lennon said it well—"Life is what happens to you while you're busy making other plans."  The book was finished shortly before I completed my master's work, Christy and I continued to work on grants to improve higher education for students with disabilities, I eventually took over operations of the lab I started in, and my spouse and I added two more children to our lives.  Things were good but certainly busy.</p>
+<p>One day, a couple of years back, I got the note that all technical authors do that the run for Design Accessible Web Sites was finished and it would be going out of print.  It was around much longer than I expected, actually—better than half a decade if a great run for an edition.  Remarkably, the vast majority of the content is still relevant—there are certainly things that have become dated.  For example, I could now write the chapter on Flash in one word—"Don't."  The real question was how to get this content back out there where it could be useful to others.</p>
+<p>I punted around the idea of revising a new edition, but held off.  I was finishing up my dissertation, raising my kids is always my chief priority, and then professional changes made life excessively busy for a couple of years.  More importantly, I noticed a pattern—every couple of years, a new accessibility author would put out a book, it would make its run, and then disappear into the twilight.  While I'm still very proud of the product, I'm not entirely sure that books are the best way to approach this kind of content.  Even at the time, I wrote the book a series of articles designed to be read out of order as needed in the process of professional practice.   </p>
+<p>So the answer is this - a return to blog style articles for the first time in a long while.  My plan is to revisit old content from Design Accessible Web Sites, splitting, updating, and remixing as needed as well as to periodically write up new things as they become timely.  At this point there is no particular schedule or timeline, so bear with me.</p>
+<p>As an aside, Design Accessible Web Sites began "It was a dark and stormy night..." (really).  My editor was <em>not at all</em> happy with this choice, but it got enough of a positive result from readers that I'll kick off this set of articles with "Once upon a time" anyway.    </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

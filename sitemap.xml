@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jsydik.github.io/accessibility-dojo/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jsydik.github.io/accessibility-dojo/</loc>
+</url>
+<url>
+<loc>https://jsydik.github.io/accessibility-dojo/post-3.html</loc>
+<lastmod>2020-03-17T21:08:58-05:00</lastmod>
+<image:image>
+<image:loc>https://jsydik.github.io/accessibility-dojo/media/posts/3/EmptyClassroom.jpg</image:loc>
+<image:title><![CDATA[Desks and Chairs in an Empty Classroom]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jsydik.github.io/accessibility-dojo/principles-before-guidelines.html</loc>
+<lastmod>2020-03-17T14:20:07-05:00</lastmod>
+<image:image>
+<image:loc>https://jsydik.github.io/accessibility-dojo/media/posts/2/JusticeNYC.jpg</image:loc>
+<image:title><![CDATA[Sculpture of Justice at New York City Courthouse]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jsydik.github.io/accessibility-dojo/title-goes-here.html</loc>
+<lastmod>2020-03-17T14:11:53-05:00</lastmod>
+<image:image>
+<image:loc>https://jsydik.github.io/accessibility-dojo/media/posts/1/Bulldozer-Vetsikas-BW.jpg</image:loc>
+<image:title><![CDATA[An old bulldozer, photographed in black and white]]></image:title>
+</image:image>
+</url>
+</urlset>
